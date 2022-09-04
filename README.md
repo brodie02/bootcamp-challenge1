@@ -13,6 +13,12 @@ What are the steps required to install your project? Provide a step-by-step desc
 This challenge focused on accessibility, to use this webpage and make sure it's accessible, the HTML can be viewed via the 'Inspect' tool. This is found by right clicking on the webpage and selecting 'Inspect'. 
 
  ![image of webpage](/assets/images/screenshot.png)
+
+## Link
+
+Below is the link to the webpage
+
+https://brodie02.github.io/bootcamp-challenge1/
       
 ---
 
